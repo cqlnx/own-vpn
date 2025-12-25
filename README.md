@@ -88,13 +88,13 @@ tailscale down
 
 ## Video Tutorial
 
-YouTube tutorial link here
+YouTube tutorial link here(need to edit it )
 
 ---
 
 ## Support
 
--- Discord: https://discord.gg/AYbDNEWgHE
+- Discord: https://discord.gg/AYbDNEWgHE
 
 ---
 
