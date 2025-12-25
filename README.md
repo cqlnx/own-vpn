@@ -88,7 +88,7 @@ tailscale down
 
 ## Video Tutorial
 
-YouTube tutorial link here(need to edit it )
+[YouTube tutorial link here](https://youtu.be/_Bk05RXaHFM)
 
 ---
 
