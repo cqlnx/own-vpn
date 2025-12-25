@@ -8,18 +8,18 @@ Your Linux Codespace will act as the VPN server, and your Windows PC will connec
 
 ## Requirements
 
--- GitHub account  
--- GitHub Codespace (Linux)  
--- Tailscale account (free)  
--- Windows PC  
+- GitHub account  
+- GitHub Codespace (Linux)  
+- Tailscale account (free)  
+- Windows PC  
 
 ---
 
 ## What This Setup Does
 
--- Linux Codespace acts as the VPN exit node  
--- Windows PC connects as the VPN client  
--- All internet traffic is routed through the Codespace  
+- Linux Codespace acts as the VPN exit node  
+- Windows PC connects as the VPN client  
+- All internet traffic is routed through the Codespace  
 
 ---
 
@@ -100,9 +100,9 @@ YouTube tutorial link here
 
 ## Notes
 
--- Both devices must be logged into the same Tailscale account  
--- The Codespace must stay running for the VPN to work  
--- Exit nodes can be managed from the Tailscale admin panel  
+- Both devices must be logged into the same Tailscale account  
+- The Codespace must stay running for the VPN to work  
+- Exit nodes can be managed from the Tailscale admin panel  
 
 ---
 
